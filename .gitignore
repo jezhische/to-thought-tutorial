@@ -1,2 +1,7 @@
-/target
-/bin
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
